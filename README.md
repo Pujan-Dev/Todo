@@ -54,5 +54,7 @@ Contributions are welcome! If you find any bugs or have ideas for improvements, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code.
-```
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code.!
+![image](https://github.com/Pujan-Dev/Todo/assets/92036903/890a3a51-aba5-4eea-8755-d2db7c0c4abe)
+[image](https://github.com/Pujan-Dev/Todo/assets/92036903/bc601b68-3890-4742-9761-3fd7e72b8a82)
+
