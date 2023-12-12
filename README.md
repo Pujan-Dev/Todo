@@ -18,7 +18,7 @@ Welcome to the ToDo app! This application allows you to manage your tasks effect
 ## Features
 
 - Add new tasks
-- -delete task
+- delete task
 - Responsive design for various screen sizes
 - Simple and intuitive user interface
 
